@@ -1,0 +1,8 @@
+package com.test;
+
+public class StringUtil {
+	public boolean isEmpty(String str){
+		if("".equals(str) || null == str)return true;
+		return false;
+	}
+}
