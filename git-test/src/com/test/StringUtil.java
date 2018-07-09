@@ -9,4 +9,8 @@ public class StringUtil {
 	public void print(){
 		
 	}
+	
+	public static void test(){
+		
+	}
 }
