@@ -5,4 +5,8 @@ public class StringUtil {
 		if("".equals(str) || null == str)return true;
 		return false;
 	}
+	
+	public void print(){
+		
+	}
 }
