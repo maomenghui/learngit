@@ -11,6 +11,6 @@ public class StringUtil {
 	}
 	
 	public static void test(){
-		
+		System.out.println("aaa");
 	}
 }
