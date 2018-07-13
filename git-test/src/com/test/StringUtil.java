@@ -7,7 +7,7 @@ public class StringUtil {
 	}
 	
 	public void print(){
-		System.out.println();
+		System.out.println("");
 	}
 	
 	public static void test(){
